@@ -1,0 +1,1 @@
+const CORRECT_VALUE = 6;
